@@ -11,6 +11,7 @@ public class Variable_Test_DC {
     int D=DC.B;   
     int C= A+D;
 		 System.out.println("Value of A:  "+C);
+		System.out.println("Value of A:  "+C
 		System.out.println("Value of A:  "+C);
 		  
 	}
